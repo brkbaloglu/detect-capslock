@@ -1,0 +1,1 @@
+Detect Caps lock
